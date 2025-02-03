@@ -3,3 +3,4 @@ Atualmene estou estudando para me tornar Desenvolvedora Python com foco em Intel
 
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariaeducorrea2502@gmail.com)
+
