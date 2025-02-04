@@ -4,7 +4,7 @@ Atualmente, estou estudando para me tornar Desenvolvedora Python com foco em Int
 
 ### 🌎 Conecte-se comigo:  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-corr%C3%AAa-544725279/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seuemail@gmail.com)  
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariaeducorrea2502@gmail.com)  
 
 ---
 
@@ -14,7 +14,6 @@ Atualmente, estou estudando para me tornar Desenvolvedora Python com foco em Int
 ---
 
 ### 📚 Tecnologias que estou estudando:  
-
 <div align="center">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
