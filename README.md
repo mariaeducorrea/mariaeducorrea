@@ -10,3 +10,13 @@ Atualmene estou estudando para me tornar Desenvolvedora Python com foco em Intel
 <div style="display: inline_block."><br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
+
+<div style="display: inline_block."><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
+</div>
+
+<div style="display: inline_block."><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+</div>
+
+
