@@ -2,10 +2,6 @@
 
 Atualmente, estou estudando para me tornar Desenvolvedora Python com foco em Inteligência Artificial e Engenharia de Dados. Busco constantemente aprimorar meus conhecimentos por meio de cursos e projetos práticos, visando aplicar soluções inovadoras e eficientes. No futuro, pretendo expandir minha formação acadêmica na área.  
 
-### 🌎 Conecte-se comigo:  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-corr%C3%AAa-544725279/)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mariaeducorrea2502@gmail.com)  
-
 ---
 
 ### 📊 Estatísticas do GitHub  
@@ -24,6 +20,5 @@ Atualmente, estou estudando para me tornar Desenvolvedora Python com foco em Int
 </div>  
 
 ---
-
-🚀 Sempre buscando aprender mais sobre **Inteligência Artificial, Engenharia de Dados e Desenvolvimento Back-end**!  
-💡 Aberta a novas oportunidades e conexões no mundo da tecnologia!  
+Aberta a novas oportunidades e conexões no mundo da tecnologia! Conecte-se comigo:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-corr%C3%AAa-544725279/)  
