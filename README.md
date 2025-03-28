@@ -96,7 +96,7 @@ Atualmente, estou em busca de oportunidades para crescer profissionalmente na á
     style="padding-right: 10px;"
     src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000"
 />
-<br>
+<br><br>
 
 
 ## 📊 Estatísticas 
