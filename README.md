@@ -62,7 +62,7 @@ Atualmente, estou em busca de oportunidades para crescer profissionalmente na á
     title="Laravel"
     width="50px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg"
 />
 <img
     align="left"
@@ -86,7 +86,16 @@ Atualmente, estou em busca de oportunidades para crescer profissionalmente na á
     title="Laravel"
     width="50px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"
+    src="https://img.icons8.com/?size=100&id=Ny0t2MYrJ70p&format=png&color=000000"
 />
+<img
+    align="left"
+    alt="Laravel"
+    title="Laravel"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://img.icons8.com/?size=100&id=0OQR1FYCuA9f&format=png&color=000000"
+/>
+
 
 
