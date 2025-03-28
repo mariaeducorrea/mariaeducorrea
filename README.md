@@ -105,7 +105,7 @@ Atualmente, estou em busca de oportunidades para crescer profissionalmente na á
         alt="GitHub Stats"
         width="500px"
         style="padding-right: 10px;"
-        src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"
+        src="https://github-readme-stats.vercel.app/api?username=mariaeducorrea&show_icons=true&theme=transparent"
 
 
 </p>
