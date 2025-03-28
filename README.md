@@ -14,14 +14,79 @@ Atualmente, estou em busca de oportunidades para crescer profissionalmente na á
     title="Laravel"
     width="50px"
     style="padding-right: 10px;"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
 />
-
-
-<img 
-    alt="Python"
-    title="Python"
+<img
+    align="left"
+    alt="Laravel"
+    title="Laravel"
     width="50px"
-    src="![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg)"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/poetry/poetry-original.svg"
 />
+<img
+    align="left"
+    alt="Laravel"
+    title="Laravel"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>
+<img
+    align="left"
+    alt="Laravel"
+    title="Laravel"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg"
+/>
+<img
+    align="left"
+    alt="Laravel"
+    title="Laravel"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"
+/>
+<img
+    align="left"
+    alt="Laravel"
+    title="Laravel"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg"
+/>
+<img
+    align="left"
+    alt="Laravel"
+    title="Laravel"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"
+/>
+<img
+    align="left"
+    alt="Laravel"
+    title="Laravel"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg"
+/>
+<img
+    align="left"
+    alt="Laravel"
+    title="Laravel"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://img.icons8.com/?size=100&id=117561&format=png&color=000000"
+/>
+<img
+    align="left"
+    alt="Laravel"
+    title="Laravel"
+    width="50px"
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"
+/>
+
 
