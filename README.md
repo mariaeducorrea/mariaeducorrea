@@ -103,7 +103,7 @@ Atualmente, estou em busca de oportunidades para crescer profissionalmente na á
     <img
         align="left"
         alt="GitHub Stats"
-        width="200px"
+        width="500px"
         style="padding-right: 10px;"
         src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"
 
