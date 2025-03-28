@@ -16,3 +16,13 @@ Atualmente, estou em busca de oportunidades para crescer profissionalmente na á
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
 />
+
+<div align="center">
+    <img 
+        alt="Python"
+        title="Python"
+        width="50px"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"
+    />
+    <p>Python</p>
+</div>
