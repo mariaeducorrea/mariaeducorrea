@@ -7,7 +7,7 @@ Sou estudante de Análise e Desenvolvimento de Sistemas na Unisinos e tenho gran
 Acredito que organizar e interpretar dados é essencial para tomar decisões estratégicas com mais precisão. Por isso, estou sempre buscando aprender novas técnicas e ferramentas para aprimorar minhas análises e tornar os dados mais acessíveis e impactantes.
 Atualmente, estou em busca de oportunidades para crescer profissionalmente na área de dados e contribuir com projetos inovadores.
 
-## Linguagens e Tecnologias
+## 🛠️ Linguagens e Tecnologias
 <img
     align="left"
     alt="Laravel"
@@ -98,4 +98,15 @@ Atualmente, estou em busca de oportunidades para crescer profissionalmente na á
 />
 
 
+## 📊 Estatísticas 
+<p>
+    <img
+        align="left"
+        alt="GitHub Stats"
+        width="200px"
+        style="padding-right: 10px;"
+        src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"
+
+
+</p>
 
